@@ -19,8 +19,11 @@ A Python turtle graphics game where you navigate a turtle across a busy road whi
 car-game/
 │
 ├── main.py          # Main game loop, collision detection, level progression
+
 ├── player.py        # Player (turtle) movement and finish line detection
+
 ├── car_manager.py   # Car spawning, movement, and speed scaling
+
 └── scoreboard.py    # Level display and Game Over screen
 
 ---
